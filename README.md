@@ -48,7 +48,20 @@ https://sysken.org に参加記録が投稿されています。
 新入部員の方のサポートも同様にSlack上で行います。
 
 ## 連絡先
-// 入部方法とかによって変えるので要相談
+普段使っているTeamsや、Twitterなどでコンタクトをとってください。
+// 要議論: 各連絡先を1つにしたほうが迷いにくいのでは…？
+
+### MS Teamsで連絡をとりたい場合
+* {{.現部長}}
+* {{.現副部長}}
+* ?{{.glatan}}
+* b-suedat@tsuyama.kosen-ac.jp
+
+### Twitterで連絡をとりたい場合
+* {{.現部長}}
+* {{.現副部長}}
+* ?{{.glatan}}
+* [@terfno_mai](https://twitter.com/terfno_mai)
 
 ## 備考
 ### 兼部について
